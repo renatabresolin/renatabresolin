@@ -14,7 +14,7 @@
 **More about me 👇**
 - 👩‍💻 Full Stack Web Developer, graduated from [Le Wagon's Coding Bootcamp](https://www.lewagon.com/);
 - 👩‍🎓 Analysis and Systems Development Student; 
-- 🤓 Currently working as a Ruby On Rails Developer at <a href="https://www.iugu.com/">iugu</a>;
+- 🤓 Focus on Ruby On Rails Development;
 - 💬 I'm an easy-going, talkative and well-organized person;
 - ✈️ Passionate about traveling | 🧉 I'm addicted to chimarrão | 🇮🇹 Italian citizen
 - ⚡ Fun fact: I worked as a flight attentant for 7 years and I'd decided to dive into programming world in 2020. 
