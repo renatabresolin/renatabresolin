@@ -23,8 +23,3 @@
 **Techs that I've been working with 👇**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatabresolin&layout=compact&exclude_repo=github-readme-stats,renatabresolin.github.io)](https://github.com/renatabresolin/github-readme-stats)
-
----
-**Some nice info from GitHub :octocat:**
-
-![Renata's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatabresolin&show_icons=true&theme=tokyonight&count_private=true)
